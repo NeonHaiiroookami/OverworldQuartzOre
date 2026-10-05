@@ -23,7 +23,7 @@ displayURL="https://modrinth.com/project/woodys-overworld-quartz"
 
 #credits="" #optional
 
-authors="${mod_authors}"
+authors="Woody Takada"
 
 description='''
 ${mod_description}
