@@ -1,4 +1,12 @@
 {
-  "block.overquartz.overworld_quartz_ore": "Overworld Quartz Ore",
-  "block.overquartz.deepslate_quartz_ore": "Deepslate Quartz Ore"
+  "block.overquartz.overworld_quartz_ore": "Quartz Ore",
+  "block.overquartz.deepslate_quartz_ore": "Deepslate Quartz Ore",
+  "item.ae2.nether_quartz_axe": "Quartz Axe",
+  "item.ae2.nether_quartz_cutting_knife": "Quartz Cutting Knife",
+  "item.ae2.nether_quartz_hoe": "Quartz Hoe",
+  "item.ae2.nether_quartz_pickaxe": "Quartz Pickaxe",
+  "item.ae2.nether_quartz_shovel": "Quartz Shovel",
+  "item.ae2.nether_quartz_sword": "Quartz Sword",
+  "item.ae2.nether_quartz_wrench": "Quartz Wrench",
+  "item.minecraft.quartz": "Quartz"
 }
