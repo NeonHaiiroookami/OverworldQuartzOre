@@ -2,17 +2,17 @@
 	"schemaVersion": 1,
 	"id": "overquartz",
 	"version": "${version}",
-	"name": "OverQuartz",
-	"description": "Add Quartz ores for overworld",
+	"name": "Woody's Overworld Quartz",
+	"description": "This mod adds Quartz Ores in the Overworld.",
 	"authors": [
-		"break08"
+		"Woody Takada"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/overquartz",
-		"sources": "https://github.com/break08/OverQuartz"
+		"homepage": "https://modrinth.com/project/woodys-overworld-quartz",
+		"sources": "https://github.com/NeonHaiiroookami/OverworldQuartzOre"
 	},
 	"license": "MIT",
-	"icon": "assets/overquartz/icon.png",
+	"icon": "assets/overquartz/textures/block/overworld_quartz_ore.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
