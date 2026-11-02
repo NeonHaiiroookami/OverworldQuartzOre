@@ -1,0 +1,8 @@
+{
+  "id": "remi:ores",
+  "type": "remi:group",
+  "contents": [
+    "overquartz:overworld_quartz_ore",
+    "overquartz:deepslate_quartz_ore"
+  ]
+}
