@@ -10,7 +10,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "overquartz:overworld_quartz_ore",
+              "name": "overquartz:quartz_ore",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",

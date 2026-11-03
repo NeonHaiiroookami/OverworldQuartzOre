@@ -30,17 +30,17 @@ public class OverQuartz {
 
     public static void buildContents(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
-            event.accept(OverQuartzBlockItems.OVERWORLD_QUARTZ_BLOCK_ITEM.get());
+            event.accept(OverQuartzBlockItems.QUARTZ_BLOCK_ITEM.get());
             event.accept(OverQuartzBlockItems.DEEPSLATE_QUARTZ_BLOCK_ITEM.get());
         }
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
-        LOGGER.info("OverQuartz loaded!");
+        LOGGER.info("Overworld Quartz loaded!");
     }
 
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
-        LOGGER.info("OverQuartz server starting!");
+        LOGGER.info("Overworld Quartz server starting!");
     }
 }

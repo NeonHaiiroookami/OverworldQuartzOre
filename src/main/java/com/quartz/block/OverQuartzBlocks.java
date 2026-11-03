@@ -11,8 +11,8 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class OverQuartzBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks("overquartz");
 
-    public static final DeferredHolder<Block, Block> OVERWORLD_QUARTZ_ORE = BLOCKS.register(
-            "overworld_quartz_ore",
+    public static final DeferredHolder<Block, Block> QUARTZ_ORE = BLOCKS.register(
+            "quartz_ore",
             () -> new Block(BlockBehaviour.Properties.of()
                     .sound(SoundType.STONE)
                     .strength(3f)

@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "overquartz:overworld_quartz_ore"
+      "item": "overquartz:quartz_ore"
     }
   ],
   "processing_time": 250,

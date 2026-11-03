@@ -6,7 +6,7 @@
     "targets": [
       {
         "state": {
-          "Name": "overquartz:overworld_quartz_ore"
+          "Name": "overquartz:quartz_ore"
         },
         "target": {
           "tag": "stone_ore_replaceables",

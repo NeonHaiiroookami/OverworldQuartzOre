@@ -2,7 +2,7 @@
   "type": "minecraft:blasting",
   "category": "blocks",
   "ingredient": {
-    "item": "overquartz:overworld_quartz_ore"
+    "item": "overquartz:quartz_ore"
   },
   "result": {
     "id": "minecraft:quartz"
